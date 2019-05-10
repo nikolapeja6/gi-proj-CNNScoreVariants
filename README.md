@@ -70,7 +70,8 @@ As mentioned above, the final version of the app (on which the benchmarking was 
 
 A recording of the presentation of the project was made and is available on YouTube.
 
-[![Presentation of the project on YouTube](https://img.youtube.com/vi/xLTvRgHnWQ4/0.jpg)](https://www.youtube.com/watch?v=xLTvRgHnWQ4)
+[<p align="center"><img alt="Presentation of the project on YouTube" src="https://img.youtube.com/vi/xLTvRgHnWQ4/0.jpg"> </p>](https://www.youtube.com/watch?v=xLTvRgHnWQ4)
+ </p>
 
 
 [course]: https://github.com/vladimirkovacevic/gi-2019-etf
