@@ -1,7 +1,7 @@
 # Wrapping CNNScoreVariants in CWL with benchmarking
 This school project was created for the [Computational Genomics (2018/2019) course][course], which is a part of the Master studies at the [School of Electrical Engineering][school], [University of Belgrade][uni]. A full description of the project statement is given below, along with an overview of the results.
 
-After finishing the project, the CNNScoreVariants app was [published on the Cancer Genomics Cloud platform][app] in the [Public Apps gallery][app_gallery].
+After finishing the project, the **CNNScoreVariants app was [published on the Cancer Genomics Cloud platform][app] in the [Public Apps gallery][app_gallery]**.
 
 Authors: [Nikola Pejić][np] and [Dušan Đorić][dd]
 
